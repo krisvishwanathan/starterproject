@@ -21,3 +21,4 @@ python manage.py createsuperuser   {create super user creds and try from http://
 Now that you have basic app, you need to make sure you developing the app with basic things needed
 Main project has base.html with all the required headers, navigation, style sheets, user, tenant funtionality etc.. You will need simpler base.html for your headers to test
 
+dsds
