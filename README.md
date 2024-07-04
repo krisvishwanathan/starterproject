@@ -1,8 +1,8 @@
 # starterproject
 For the projects to be consumed by Schedule Time framework, it needs to be library app. but you can start them like regular django project and test locally
-<ul/>The setup.py and manifest.in file make the app library project when built using below command </br>
-<ul/>Tpython setup.py sdist</br>
-<ul/>Tabove command creates tz file in the repository that can be installed using pip install git+<repository name></br>
+<li/>The setup.py and manifest.in file make the app library project when built using below command </br>
+<li/>Tpython setup.py sdist</br>
+<li/>Tabove command creates tz file in the repository that can be installed using pip install git+<repository name></br>
 To start project project from scratch follow below steps</br>
 mkdir <projdir></br>
 cd <projdir></br>
