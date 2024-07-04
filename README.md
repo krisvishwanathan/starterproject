@@ -1,11 +1,11 @@
 # starterproject
 For the projects to be consumed by Schedule Time framework, it needs to be library app. but you can start them like regular django project and test locally
-The setup.py and manifest.in file make the app library project when built using below command
-python setup.py sdist
-above command creates tz file in the repository that can be installed using pip install git+<repository name>
-To start project project from scratch follow below steps
-mkdir <projdir>
-cd <projdir>
+The setup.py and manifest.in file make the app library project when built using below command </br>
+python setup.py sdist</br>
+above command creates tz file in the repository that can be installed using pip install git+<repository name></br>
+To start project project from scratch follow below steps</br>
+mkdir <projdir></br>
+cd <projdir></br>
 virtualenv venv
 source venv/bin/activate
 django-admin startproject <projname>
